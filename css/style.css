@@ -18,7 +18,7 @@ body, html{
 
 #profilepic{
   height: 300px;
-  border-radius: 50%;
+  border-radius: 100%;
   margin-left: auto;
   margin-right: auto;
   display: block;
