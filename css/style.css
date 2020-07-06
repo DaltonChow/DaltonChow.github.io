@@ -17,14 +17,14 @@ body, html{
 }
 
 #profilepic{
-  height: 300px;
+  height: 50px;
   border-radius: 100%;
   margin-left: auto;
   margin-right: auto;
   display: block;
   position: relative;
   top: 160px;
-  width: 70px;
+  width: 10px;
 }
 
 .pimg1{
